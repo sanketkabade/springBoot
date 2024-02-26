@@ -1,0 +1,5 @@
+127.0.0.1 - - [23/Dec/2023:11:20:53 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:11:20:54 +0530] "GET /SupplyChainManagementProject/ HTTP/1.1" 200 2534
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:11:20:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:11:21:02 +0530] "GET /SupplyChainManagementProject/ HTTP/1.1" 200 2534
+0:0:0:0:0:0:0:1 - - [23/Dec/2023:11:21:05 +0530] "GET /SupplyChainManagementProject/dealerRegistration.jsp HTTP/1.1" 200 2306
